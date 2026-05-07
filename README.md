@@ -1,4 +1,4 @@
-[![Build status](https://github.com/git/git/workflows/CI/badge.svg)](https://github.com/git/git/actions?query=branch%3Amaster+event%3Apush)
+   [![Build status](https://github.com/git/git/workflows/CI/badge.svg)](https://github.com/git/git/actions?query=branch%3Amaster+event%3Apush)
 
 Git - fast, scalable, distributed revision control system
 =========================================================
@@ -66,7 +66,7 @@ and the name as (depending on your mood):
  - "goddamn idiotic truckload of sh*t": when it breaks
 
 [INSTALL]: INSTALL
-[Documentation/gittutorial.adoc]: Documentation/gittutorial.adoc
+   [Documentation/gittutorial.adoc]: Documentation/gittutorial.adoc
 [Documentation/giteveryday.adoc]: Documentation/giteveryday.adoc
 [Documentation/gitcvs-migration.adoc]: Documentation/gitcvs-migration.adoc
 [Documentation/SubmittingPatches]: Documentation/SubmittingPatches
